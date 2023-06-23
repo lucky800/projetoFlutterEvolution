@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "528337686569",
+    "firebase_url": "https://geladeiraprojeto-default-rtdb.firebaseio.com",
+    "project_id": "geladeiraprojeto",
+    "storage_bucket": "geladeiraprojeto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528337686569:android:d37f138ad4e84a7ced8c38",
+        "android_client_info": {
+          "package_name": "com.example.projeto_geladeira"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByf2eiPkIKKQbG4O1ZY3rNnlV-0WT1SCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528337686569:android:c3e67ecd7e243e6ced8c38",
+        "android_client_info": {
+          "package_name": "com.example.projeto_geladeira_novo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByf2eiPkIKKQbG4O1ZY3rNnlV-0WT1SCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
